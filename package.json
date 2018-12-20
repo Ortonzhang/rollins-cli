@@ -1,6 +1,6 @@
 {
   "name": "rollins-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "group create react cli",
   "main": "index.js",
   "dependencies": {
@@ -23,6 +23,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ortonzhang/generator-cli"
+    "url": "https://github.com/Ortonzhang/rollins-cli"
   }
 }
