@@ -1,0 +1,28 @@
+{
+  "name": "rollins-cli",
+  "version": "1.0.7",
+  "description": "group create react cli",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.1",
+    "download-git-repo": "^1.1.0",
+    "ora": "^3.0.0"
+  },
+  "bin": {
+    "rollins": "bin/index.js"
+  },
+  "keywords": [
+    "umi",
+    "dva",
+    "generator",
+    "react"
+  ],
+  "author": "orton",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ortonzhang/generator-cli"
+  }
+}
